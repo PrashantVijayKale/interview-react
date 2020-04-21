@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import Autocomplete from "./Autocomplete/Autocomplete";
 import "./App.css";
 import "./Autocomplete/autocomplete.css";
